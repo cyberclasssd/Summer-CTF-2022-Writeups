@@ -1,0 +1,61 @@
+.header {
+    background-image: url("photos/fractal.jpg");
+    background-size: 100% ;
+    padding: 50px;
+    text-align: center;
+    color: rgb(0, 255, 255);
+    font-family: 'Amatic SC';
+    font-size: 40px;
+    letter-spacing: 0.2em;
+}
+
+body{
+  margin: 0px;
+  font-family: cursive;
+  background-color: rgb(148, 143, 0);
+  color: rgb(255, 0, 247);
+}
+
+p{
+  margin: 3%;
+  font-size: 30px;
+}
+
+h2{
+  margin: 7% 3%;
+  color: rgb(0, 255, 179);
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.button {
+  transition-duration: 0.4s;
+  font-family: cursive;
+  font-size: 20px;
+  background-color: rgb(145, 145, 145);
+  color: rgb(187, 0, 255);
+  padding: 2% 5%;
+  margin: 5% 40% 5% 40%;
+  outline: none;
+}
+
+#hiddenMessage{
+  margin: 0% 5% 5%;
+}
+
+.button:hover {
+  background-color: rgb(225, 255, 0);
+  color: rgb(214, 146, 0);
+}
+
+.smalltext{
+  font-size: 10px;
+}
+
+.footer {
+    background-color: #00db87;
+    padding: 10px;
+    text-align: center;
+}
+
+/* part 2/3 of your flag: ag3nt4_d0nt_l00k_ */
